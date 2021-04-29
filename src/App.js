@@ -17,7 +17,7 @@ export default function App() {
         },
         {
           itemName : "5GB Storage",
-          isDisabled : false
+          isDisabled : falsef
         },
         {
           itemName : "Unlimited Public Projects",
