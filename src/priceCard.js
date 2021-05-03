@@ -18,7 +18,7 @@ function Pricecard(props){
                  })
              }
             </ul>
-            <a href="#" className="btn btn-block btn-primary text-uppercase" >Button</a>
+            <button className="btn btn-block btn-primary text-uppercase" >Button</button>
           </div>
         </div>
       </div>
